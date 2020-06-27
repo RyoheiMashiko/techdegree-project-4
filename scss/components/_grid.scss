@@ -16,8 +16,10 @@
   border-radius: 5px;
 }
 
+.them {
 @for $i from 1 through 12 {
-  .theme.col-#{$i} { background-color: $grid-color;}
+  .col-#{$i} { background-color: $grid-color;}
+}
 }
 
 .card {
