@@ -25,7 +25,7 @@
   }
   @for $i from 1 through 12 {
     .col-#{$i} {
-     flex-basis:percentage ($i/12);
+     flex-basis:percentage($i/12);
     }
   }
   

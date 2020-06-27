@@ -406,51 +406,51 @@ a {
 }
 
 .theme.col-1 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-2 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-3 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-4 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-5 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-6 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-7 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-8 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-9 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-10 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-11 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .theme.col-12 {
-  background-color: #777;
+  background-color: skyblue;
 }
 
 .card {
@@ -552,7 +552,7 @@ a {
   max-height: 100%;
 }
 
-.img-avatar-frame {
+.img-frame {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -562,7 +562,7 @@ a {
   border: 1px solid #ccc;
 }
 
-.img-avatar-logo {
+.img-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -602,52 +602,52 @@ a {
     margin-left: 10px;
   }
   .col-1 {
-    -ms-flex-preferred-size: percentage 0.08333;
-        flex-basis: percentage 0.08333;
+    -ms-flex-preferred-size: 8.33333%;
+        flex-basis: 8.33333%;
   }
   .col-2 {
-    -ms-flex-preferred-size: percentage 0.16667;
-        flex-basis: percentage 0.16667;
+    -ms-flex-preferred-size: 16.66667%;
+        flex-basis: 16.66667%;
   }
   .col-3 {
-    -ms-flex-preferred-size: percentage 0.25;
-        flex-basis: percentage 0.25;
+    -ms-flex-preferred-size: 25%;
+        flex-basis: 25%;
   }
   .col-4 {
-    -ms-flex-preferred-size: percentage 0.33333;
-        flex-basis: percentage 0.33333;
+    -ms-flex-preferred-size: 33.33333%;
+        flex-basis: 33.33333%;
   }
   .col-5 {
-    -ms-flex-preferred-size: percentage 0.41667;
-        flex-basis: percentage 0.41667;
+    -ms-flex-preferred-size: 41.66667%;
+        flex-basis: 41.66667%;
   }
   .col-6 {
-    -ms-flex-preferred-size: percentage 0.5;
-        flex-basis: percentage 0.5;
+    -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
   }
   .col-7 {
-    -ms-flex-preferred-size: percentage 0.58333;
-        flex-basis: percentage 0.58333;
+    -ms-flex-preferred-size: 58.33333%;
+        flex-basis: 58.33333%;
   }
   .col-8 {
-    -ms-flex-preferred-size: percentage 0.66667;
-        flex-basis: percentage 0.66667;
+    -ms-flex-preferred-size: 66.66667%;
+        flex-basis: 66.66667%;
   }
   .col-9 {
-    -ms-flex-preferred-size: percentage 0.75;
-        flex-basis: percentage 0.75;
+    -ms-flex-preferred-size: 75%;
+        flex-basis: 75%;
   }
   .col-10 {
-    -ms-flex-preferred-size: percentage 0.83333;
-        flex-basis: percentage 0.83333;
+    -ms-flex-preferred-size: 83.33333%;
+        flex-basis: 83.33333%;
   }
   .col-11 {
-    -ms-flex-preferred-size: percentage 0.91667;
-        flex-basis: percentage 0.91667;
+    -ms-flex-preferred-size: 91.66667%;
+        flex-basis: 91.66667%;
   }
   .col-12 {
-    -ms-flex-preferred-size: percentage 1;
-        flex-basis: percentage 1;
+    -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
   }
   .nav {
     -webkit-box-orient: horizontal;

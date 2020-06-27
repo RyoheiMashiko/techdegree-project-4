@@ -9,9 +9,8 @@
   padding: 10px 0;
   display: block;
   width: 100%;
-  transition: 
-    background-color .2s ease-in-out,
-    color .2s ease-in-out;
+  transition: background-color .2s ease-in-out,
+              color .2s ease-in-out;
   &:hover {
     color: $color-button;
     background-color: $color-2;
