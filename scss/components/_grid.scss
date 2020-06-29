@@ -16,11 +16,10 @@
   border-radius: 5px;
 }
 
-.them {
 @for $i from 1 through 12 {
-  .col-#{$i} { background-color: $grid-color;}
+.theme.col-#{$i} { background-color: $grid-color;}
 }
-}
+
 
 .card {
   flex-basis: 100%;
