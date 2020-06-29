@@ -16,6 +16,57 @@
   border-radius: 5px;
 }
 
+.theme{
+
+&.col-1 {
+  background-color: $background-color-1;
+}
+
+&.col-2 {
+  background-color:$background-color-2;
+}
+
+&.col-3 {
+  background-color: $background-color-3;
+}
+
+&.col-4 {
+  background-color: $background-color-4;
+}
+
+&.col-5 {
+  background-color: $background-color-5;
+}
+
+&.col-6 {
+  background-color: $background-color-6;
+}
+
+&.col-7 {
+  background-color: $background-color-1;
+}
+
+&.col-8 {
+  background-color: $background-color-2;
+}
+
+&.col-9 {
+  background-color: $background-color-3;
+}
+
+&.col-10 {
+  background-color: $background-color-4;
+}
+
+&.col-11 {
+  background-color: $background-color-5;
+}
+
+&.col-12 {
+  background-color: $background-color-6;
+}
+}
+
 .card {
   flex-basis: 100%;
 }
