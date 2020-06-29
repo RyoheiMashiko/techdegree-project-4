@@ -17,7 +17,7 @@
 }
 
 @for $i from 1 through 12 {
-.theme.col-#{$i} { background-color: $grid-color;}
+.theme.col-#{$i} { background-color: $background-color-1;}
 }
 
 
