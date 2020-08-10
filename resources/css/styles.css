@@ -144,6 +144,9 @@ a {
     background-color .2s ease-in-out, 
     color .2s ease-in-out;
 }
+.type {
+  margin-right: 20px;
+}
 
 .nav-link:hover {
   color: #fff;
